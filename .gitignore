@@ -1,0 +1,9 @@
+
+# Ignorer tout sauf ce qui est dans ce dossier
+*
+
+# Mais NE PAS ignorer ces fichiers — les garder
+!.gitignore
+!INDEXX.html
+!style.css
+!script.js
